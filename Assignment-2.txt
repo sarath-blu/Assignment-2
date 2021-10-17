@@ -1,0 +1,29 @@
+1)Looping:
+
+	For loop	
+		for (let i=0; i<=n; i++)
+	For in loop	
+		For (key in object)	
+	For of loop
+		For (key of object)
+	For each
+		array.forEach(function(currentValue, index, arr), thisValue)
+
+2)JSON Resume:
+
+	let resume {
+		name: Sarath
+		age: 25
+		qualification: B.E
+		dateOfBirth: 01-09-1996
+		bloodGroup: O+
+	}
+
+3)Difference:
+
+	Window: used to determine the height and width of the browser window
+		Ex: window.function()
+	Screen: contains the information of user screen
+		Ex: screen.function()
+	Document: used to make changes like add, delete, event handlers, display text, etc.
+		Ex: document.function()
